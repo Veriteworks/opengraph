@@ -1,0 +1,22 @@
+"Image file has been not uploaded","画像ファイルをアップロードしました"
+"File can not be saved to the destination folder.","画像をアップロード先に保存できませんでした。"
+Preview,プレビュー
+Property,プロパティ
+Value,値
+MageSuite,MageSuite
+Facebook,Facebook
+"Open Graph","Open Graph"
+"Is Enabled","有効"
+fb:app_id,fb:app_id
+"Default Image","標準画像"
+"If set, this image will be used as default Open Graph image tag","値が設定されている場合は、この画像がOpen Graphタグに使用されます"
+"Social Media","ソーシャルメディア"
+"Open Graph Title","Open Graph タイトル"
+"If this field is empty, the value for ""Meta Title"" will be used. If ""Meta Title"" is also empty, category name will be used.","空欄の場合は ""メタタイトル"" の値が使用されます。もし ""メタタイトル"" も空欄の場合は、カテゴリ名が使用されます。"
+"If this field is empty, the image from ""Image Teaser"" will be used.","空欄の場合は、""ティーザー画像"" が使用されます。"
+"Open Graph Image","Open Graph 画像"
+"Open Graph Description","Open Graph 概要"
+"If this field is empty, the value from ""Meta Description"" will be used.","空欄の場合は、""メタディスクリプション"" の値が使用されます。"
+"Open Graph Type","Open Graph タイプ"
+"If this field is empty, the value for ""Meta Title"" will be used. If ""Meta Title"" is also empty, page title will be used.","空欄の場合は ""メタタイトル"" の値が使用されます。もし ""メタタイトル"" も空欄の場合は、ページのタイトルが使用されます。"
+"Allowed file types: png, gif, jpg, jpeg, svg. Max file size 1MB. If this field is empty, the image from ""Image Teaser"" will be used.","許可されている拡張子: png, gif, jpg, jpeg, svg。 最大ファイルサイズは 1MB です。 もし空欄の場合は ""ティーザー画像"" が使用されます。"
